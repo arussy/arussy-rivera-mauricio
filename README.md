@@ -7,5 +7,5 @@
 </head>
 
 <body background="owo/fondo.jpg">
-    <h3><marquee>KCHPE</marquee></h3>
+    <h3><marquee>HOLAAA</marquee></h3>
 </body>
